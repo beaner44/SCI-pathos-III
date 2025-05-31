@@ -1,25 +1,20 @@
-# NEBULA
+# 🌌 NEBULA
 
-## ⭐ Update log
+## ⭐ Update Log
+- ✨ Added Chat Spy  
+- 🛰️ Introduced Scanning (detects CST & AA)  
+- 🧠 Improved ESP  
+- 🎨 Integrated ASCII Art in Console  
 
-> Added chat spy 
-> Added scanning (scans for CST and AA)
-> Made ESP better
-> Added ACII art to console
+---
 
-# █████████████████████████████████████
+## 📅 Current Status
+- **Detection Status:** ✅ Undetected *(as of May 2025)*  
+- **Tested Executors:** Seliware, Solara, Swift  
 
+---
 
-## 📅 Status
-
-> **Undetected:** ✅ (as of may 2025)
-> **Tested Executors:** Seliware, Solara & Swift
-
-# █████████████████████████████████████
-
-
-  ## ⚠️ Disclaimer
-
-> This repository is for educational purposes only.  
-> Use at your own risk.  
-> The developer is not responsible for bans, account loss, or game disruption.
+## ⚠️ Disclaimer
+> This repository is intended for **educational purposes only**.  
+> Use at your **own risk**.  
+> The developer is **not responsible** for bans, account loss, or any disruption caused.
