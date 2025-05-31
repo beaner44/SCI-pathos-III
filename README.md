@@ -11,8 +11,8 @@
 
 ## 📅 Status
 
-- **Undetected:** ✅ (as of may 2025)
-- **Tested Executors:** Seliware, Solara & Swift
+> **Undetected:** ✅ (as of may 2025)
+> **Tested Executors:** Seliware, Solara & Swift
 
 
   ## ⚠️ Disclaimer
