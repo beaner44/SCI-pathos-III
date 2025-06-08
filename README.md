@@ -2,7 +2,7 @@
 
 
 ## 🔥 Fetures
-- There is currently 10 commands!
+- There is currently 12 commands!
 - Chat Spy
 - Scanning (detects CST & AA)
 - Spectate System
@@ -14,6 +14,8 @@
 - Fling
 - Ore ESP
 - Player ESP
+- Jump Power changer
+- Walkspeed Power changer
 
 ## 📆 To do list
 - Kill command (looking good so far
