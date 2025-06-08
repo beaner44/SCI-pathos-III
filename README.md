@@ -5,7 +5,6 @@
 - There is currently 10 commands!
 - Chat Spy
 - Scanning (detects CST & AA)
-- State of art ESP
 - Spectate System
 - FPS booster
 - Fullbright mode
@@ -13,6 +12,8 @@
 - Anti shoot system
 - Noclip
 - Fling
+- Ore ESP
+- Player ESP
 
 ## 📆 To do list
 - Kill command (looking good so far
