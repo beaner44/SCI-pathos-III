@@ -2,7 +2,7 @@
 
 
 ## 🔥 Fetures
-- There is currently 12 commands!
+- There is currently 18 commands! (some not listed)
 - Chat Spy
 - Scanning (detects CST & AA)
 - Spectate System
@@ -16,6 +16,7 @@
 - Player ESP
 - Jump Power changer
 - Walkspeed Power changer
+- Aimbot system (Teamcheck, Sensitivity and Max distance
 
 ## 📆 To do list
 - Kill command (looking good so far
