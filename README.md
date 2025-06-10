@@ -1,5 +1,9 @@
 # 🌌 NEBULA
 
+## 🔋 Script
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/beaner44/SCI-pathos-III/refs/heads/main/main.lua'))()
+```
 
 ## 🔥 Fetures
 - There is currently 18 commands! (some not listed)
