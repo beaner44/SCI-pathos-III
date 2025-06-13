@@ -21,6 +21,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/beaner44/SCI-pathos-I
 - Jump Power changer
 - Walkspeed Power changer
 - Aimbot system (Teamcheck, Sensitivity and Max distance
+- 009 infect all
 
 ## 📆 To do list
 - Kill command (looking good so far
