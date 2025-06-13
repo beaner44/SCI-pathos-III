@@ -29,12 +29,11 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/beaner44/SCI-pathos-I
 - Got anymore ideas contact me!
 
 ## ⭐ Update Log
-- ✨ Added Chat Spy  
-- 🛰️ Introduced Scanning (detects CST & AA)  
-- 🧠 Improved ESP  
-- 🎨 Integrated ASCII Art in Console  
+- 🏃‍♀️ Added walkspeed sliders
+- 🦘 Added Jumpower sliders  
+- 🦠 Added 009 infect all
+- 🎬 Added animation to chat spy
 
----
 
 ## 📅 Current Status
 - **Detection Status:** ✅ Undetected *(as of June 8th 2025)*  
