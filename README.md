@@ -42,7 +42,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/beaner44/SCI-pathos-I
 
 ## 📜 Current links
 > These are all the official script links. Any others are fake.
-> https://rscripts.net/script/sci-pathos-iii-piGE
+> Rscripts: https://rscripts.net/script/sci-pathos-iii-piGE
 
 ---
 
