@@ -41,8 +41,9 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/beaner44/SCI-pathos-I
 - **Tested Executors:** Seliware, Solara, Swift, Wave, Visual, bunni.lol & AWP
 
 ## 📜 Current links
-> These are all the official script links. Any others are fake.
-> Rscripts: https://rscripts.net/script/sci-pathos-iii-piGE
+- These are all the official script links. Any others are fake.
+-
+-  Rscripts: https://rscripts.net/script/sci-pathos-iii-piGE
 
 ---
 
