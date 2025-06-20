@@ -37,12 +37,11 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/beaner44/SCI-pathos-I
 
 
 ## 📅 Current Status
-- **Detection Status:** ✅ Undetected *(as of June 14th 2025)*  
+- **Detection Status:** ✅ Undetected *(as of June 20th 2025)*  
 - **Tested Executors:** Seliware, Solara, Swift, Wave, Visual, bunni.lol & AWP
 
 ## 📜 Current links
 - These are all the official script links. Any others are fake.
--
 -  Rscripts: https://rscripts.net/script/sci-pathos-iii-piGE
 
 ---
